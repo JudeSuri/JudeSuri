@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JudeSuri
+- 👋 Hi, I’m @JudeSurin
 - 👀 I’m interested in Secure Web Development
 - 🌱 I’m currently learning C++, HTML, CSS, and JavaScript
 - 💞️ I’m looking to collaborate on a Portfolio website
